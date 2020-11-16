@@ -1,0 +1,27 @@
+{
+  "name": "api_perf_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashwinian/api_performance_test.git"
+  },
+  "keywords": [
+    "performance"
+  ],
+  "author": "Ashwini.N",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashwinian/api_performance_test/issues"
+  },
+  "homepage": "https://github.com/ashwinian/api_performance_test#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "request": "^2.88.2",
+    "should": "^13.2.3"
+  }
+}
